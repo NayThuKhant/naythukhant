@@ -1,5 +1,4 @@
-### Hi there 👋
-
+#Nay Thu Khant
 
 - 🔭 I’m currently working as <b>NEXLABS</b>
 - 🌱 I’m still learning   <b>How to be a nood developer !</b>
