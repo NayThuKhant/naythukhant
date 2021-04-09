@@ -1,4 +1,4 @@
-# Eloquent: Getting Started
+# Nay Thu Khant (Web Developer)
 
-[![Nay Thu Khant's GitHub stats](https://github-readme-stats.vercel.app/api?username=naythukhant&show_icons=true&theme=dracula)](https://facebook.com/Mr.naythukhant)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naythukhant&show_icons=true&theme=dracula)
+[![Nay Thu Khant's GitHub status](https://github-readme-stats.vercel.app/api?username=naythukhant&hide=contribs&show_icons=true&theme=dracula)](https://facebook.com/Mr.naythukhant)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naythukhant&layout=compact&theme=dracula)](https://facebook.com/Mr.naythukhant)
