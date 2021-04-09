@@ -5,14 +5,4 @@
 - 📫 Reach me via             <b><a href='mailto:naythukhant644@gmail.com'> Email </a> , <a href='https://www.facebook.com/Mr.NayThuKhant'> Facebook </a></b>
 
 
-
-
-
-
-
-
-
-
-
-
-## Meet Laravel
+[![Nay Thu Khant's GitHub stats](https://github-readme-stats.vercel.app/api?username=naythukhant)](https://github.com/naythukhant/github-readme-stats)
