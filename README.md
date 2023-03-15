@@ -1,9 +1,16 @@
 # Nay Thu Khant (A Developer)
 
+
+## An opensource enthusiasts, building & contributing the opensources
+
 <br/><br/>
 
 
 
-[![Nay Thu Khant's GitHub status](https://github-readme-stats.vercel.app/api?username=naythukhant&hide=contribs&show_icons=true&theme=dracula)](https://facebook.com/Mr.naythukhant)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naythukhant&layout=compact&theme=dracula)](https://facebook.com/Mr.naythukhant)
+- PHP
+  - [Packagist - Laranex](https://packagist.org/packages/laranex)
+  - [Packagist - naythukhant](https://packagist.org/packages/naythukhant)
+- Javascript
+  - [NPM](https://www.npmjs.com/~naythukhant)
+
+
