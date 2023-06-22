@@ -1,7 +1,7 @@
 # Nay Thu Khant (A Developer)
 
 
-### An opensource enthusiastic, building & contributing the opensource projects
+### An opensource enthusiastic, building & contributing some opensources
 
 <br/><br/>
 
