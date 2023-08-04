@@ -1,4 +1,4 @@
-# Nay Thu Khant (A DEVELOEPR)
+# Nay Thu Khant (A DEVELOPER)
 
 
 ### An opensource enthusiastic, building & contributing some opensources
