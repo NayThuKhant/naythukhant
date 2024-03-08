@@ -1,6 +1,6 @@
 
 ## Nay Thu Khant
-Web Site - [Nay Thu Khant](https://naythukhant.me)
+Website - [Nay Thu Khant](https://naythukhant.me)
 
 
 ## Projects 
